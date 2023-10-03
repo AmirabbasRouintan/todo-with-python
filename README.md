@@ -53,7 +53,7 @@ Download and install the latest version of Python from the official website: htt
 Open a command prompt and type the following command:
 `python -m tkinter
 `
-### # Install ActivePython (optional)
+### Install ActivePython (optional)
 Download and install ActivePython from the official website: https://www.activestate.com/products/python/downloads/
 
 ###  Install Tkinter using pip
