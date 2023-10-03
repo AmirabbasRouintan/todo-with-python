@@ -75,5 +75,3 @@ sound = pygame.mixer.Sound('alert.mp3')
 
 
 ![undraw_cat_epte](https://github.com/AmirabbasRouintan/todo-with-python/assets/110909074/62c6d96e-587e-4dd4-8829-0f04b3514441)
-
-
